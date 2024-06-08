@@ -32,7 +32,7 @@
 
 ### Task management
 
-- KB: [Link](https://it.phuongnamdigital.com/board/24/status:open)
+- KB: [Link](https://planka.phuongnamdigital.com)
 
 - Account: request mentor for username and password
 
