@@ -21,7 +21,7 @@
 
 - HR intro : https://docs.google.com/presentation/d/13xy6rVhY76mlh8NZx4Pf9sGJPYXJQJ_SOupZ23RgBSM/edit?usp=sharing
 
-- Internship calendar : https://docs.google.com/spreadsheets/d/1r9cBYMtd7AlzvUn2G2XxwkHjegs2gxDsM8oxxvMm9CE/edit#gid=0
+- Internship calendar : https://docs.google.com/spreadsheets/d/1WA_R0H-YQ1PSZp2RPftiyvBaQihrkX6X4bAVyoVjx8o/edit#gid=1738951728
 
 - Instructions for writing internship reports : https://docs.google.com/presentation/d/1y4MtH47tgG5CKS_Xwc5Hp6Gvstc8hA7IB5yPOvBpi0s/edit?usp=sharing 
 
